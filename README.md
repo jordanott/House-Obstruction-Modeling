@@ -1,7 +1,7 @@
 # House-Obstruction-Modeling
 Using Google Maps, Elevation and Street View API to determine if a given home had an obstructed view
 
-![Alt text](/screenshots/obstructions.jpg?raw=true "Obstructions")
+![Alt text](https://github.com/jordanott/House-Obstruction-Modeling/blob/master/screenshots/obstructions.JPG?raw=true "Obstructions")
 
 Software:
 	APIs:
